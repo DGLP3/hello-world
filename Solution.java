@@ -1,7 +1,7 @@
 
 
 /*
-Test
+CodeGym Concatenation practice
 
 */
   public class Solution { 
